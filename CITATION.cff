@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: "If you use this tool, please cite it as below."
+title: "ribohunter: automated discovery, verification, and download of public ribosome profiling (Ribo-seq) datasets"
+authors:
+  - family-names: "Diaz de la Vega"
+    given-names: "Alejandro"
+date-released: "2026-07-23"
+url: "https://github.com/AlejandroDVG/Ribo_hunter"
+repository-code: "https://github.com/AlejandroDVG/Ribo_hunter"
+license: MIT
+version: "0.1.0"

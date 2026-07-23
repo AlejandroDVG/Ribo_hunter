@@ -245,6 +245,22 @@ examples/
   drosophila_melanogaster/  worked example: final table, manifest, contamination log
 ```
 
+## Citation
+
+If you use ribohunter in your work, please cite it:
+
+```bibtex
+@software{ribohunter,
+  author = {Diaz de la Vega, Alejandro},
+  title = {ribohunter: automated discovery, verification, and download of public ribosome profiling (Ribo-seq) datasets},
+  year = {2026},
+  url = {https://github.com/AlejandroDVG/Ribo_hunter}
+}
+```
+
+A machine-readable [CITATION.cff](CITATION.cff) is also included, so GitHub's
+"Cite this repository" button will generate this automatically.
+
 ## License
 
 MIT — see [LICENSE](LICENSE).
