@@ -13,6 +13,22 @@ sequencing-run sizes and URLs via ENA, and build a manifest + downloader.
 The worked example in this repo is *Drosophila melanogaster* — see
 [`examples/drosophila_melanogaster/`](examples/drosophila_melanogaster/).
 
+> ⚠️ **This tool proposes candidates — it does not replace manual review.**
+> Every step here reduces false positives/negatives, but none of them are
+> guaranteed. Before trusting the output for real analysis, manually check:
+> - **Species assignment** for anything borderline — SuperSeries contamination
+>   (see below) is real and was found on every organism tested so far.
+> - **RNA-seq pairs**, especially any sample the tool left unpaired — check
+>   whether its series actually contains an unclaimed candidate, and why the
+>   match failed if so (see `pair_rnaseq.py`'s docstring for known gaps).
+> - **Adapter sequences** — the tool never guesses a sequence from a kit name;
+>   if only a kit name is recorded, look up that kit's actual adapter yourself.
+> - **Treatment/condition labels** — free-text metadata is inconsistent by
+>   depositor; spot-check a sample of rows against the original GEO record.
+>
+> Treat the output CSV as a well-sorted candidate list to confirm, not a
+> ground-truth table to consume directly.
+
 ## Why not just search GEO once and download the hits?
 
 Because a single series-level search silently gets both false positives and
