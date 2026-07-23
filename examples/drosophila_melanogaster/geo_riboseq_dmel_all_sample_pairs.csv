@@ -1,0 +1,80 @@
+GEO_accession,Ribo_sample_id,Ribo_sample_name,Cell_line_source,Cell_line_source_raw,Paired_RNAseq_sample_id,Paired_RNAseq_sample_name,Catalog_status,Also_listed_under_GEO_accession,Treatment,Adapter_sequence,Adapter_kit_mentioned
+GSE246393,GSM7868262,"Ribo-seq bam,hs-bam 28hr AHS rep2",whole adult ovary,whole adult ovary,GSM7868248,"RNA-seq bam,hs-bam 28hr AHS rep2",New,,after heat shock 28hr,,NEBNext Small RNA
+GSE246393,GSM7868259,"Ribo-seq bam,hs-bam 18hr AHS rep1",whole adult ovary,whole adult ovary,GSM7868245,"RNA-seq bam,hs-bam 18hr AHS rep1",New,,after heat shock 18hr,,NEBNext Small RNA
+GSE246393,GSM7868256,"Ribo-seq bam,hs-bam 5hr AHS rep2",whole adult ovary,whole adult ovary,GSM7868242,"RNA-seq bam,hs-bam 5hr AHS rep2",New,,after heat shock 5hr,,NEBNext Small RNA
+GSE246393,GSM7868263,"Ribo-seq bam,hs-bam 38hr AHS rep1",whole adult ovary,whole adult ovary,GSM7868249,"RNA-seq bam,hs-bam 38hr AHS rep1",New,,after heat shock 38hr,,NEBNext Small RNA
+GSE246393,GSM7868260,"Ribo-seq bam,hs-bam 18hr AHS rep2",whole adult ovary,whole adult ovary,GSM7868246,"RNA-seq bam,hs-bam 18hr AHS rep2",New,,after heat shock 18hr,,NEBNext Small RNA
+GSE246393,GSM7868251,"Ribo-seq bam,hs-bam no HS rep1",whole adult ovary,whole adult ovary,GSM7868237,"RNA-seq bam,hs-bam no HS rep1",New,,no heat shock,,NEBNext Small RNA
+GSE246393,GSM7868257,"Ribo-seq bam,hs-bam 9hr AHS rep1",whole adult ovary,whole adult ovary,GSM7868243,"RNA-seq bam,hs-bam 9hr AHS rep1",New,,after heat shock 9hr,,NEBNext Small RNA
+GSE246393,GSM7868254,"Ribo-seq bam,hs-bam 0.5hr AHS rep2",whole adult ovary,whole adult ovary,GSM7868240,"RNA-seq bam,hs-bam 0.5hr AHS rep2",New,,after heat shock 0.5hr,,NEBNext Small RNA
+GSE246393,GSM7868258,"Ribo-seq bam,hs-bam 9hr AHS rep2",whole adult ovary,whole adult ovary,GSM7868244,"RNA-seq bam,hs-bam 9hr AHS rep2",New,,after heat shock 9hr,,NEBNext Small RNA
+GSE246393,GSM7868255,"Ribo-seq bam,hs-bam 5hr AHS rep1",whole adult ovary,whole adult ovary,GSM7868241,"RNA-seq bam,hs-bam 5hr AHS rep1",New,,after heat shock 5hr,,NEBNext Small RNA
+GSE246393,GSM7868252,"Ribo-seq bam,hs-bam no HS rep2",whole adult ovary,whole adult ovary,GSM7868238,"RNA-seq bam,hs-bam no HS rep2",New,,no heat shock,,NEBNext Small RNA
+GSE246393,GSM7868253,"Ribo-seq bam,hs-bam 0.5hr AHS rep1",whole adult ovary,whole adult ovary,GSM7868239,"RNA-seq bam,hs-bam 0.5hr AHS rep1",New,,after heat shock 0.5hr,,NEBNext Small RNA
+GSE246393,GSM7868261,"Ribo-seq bam,hs-bam 28hr AHS rep1",whole adult ovary,whole adult ovary,GSM7868247,"RNA-seq bam,hs-bam 28hr AHS rep1",New,,after heat shock 28hr,,NEBNext Small RNA
+GSE246393,GSM7868264,"Ribo-seq bam,hs-bam 38hr AHS rep2",whole adult ovary,whole adult ovary,GSM7868250,"RNA-seq bam,hs-bam 38hr AHS rep2",New,,after heat shock 38hr,,NEBNext Small RNA
+GSE245380,GSM7841608,Ribo-Seq Ctl Input 1,heads,heads,,,New,,,,
+GSE245380,GSM7841605,Ribo-Seq Ctl IP 1,heads,heads,,,New,,,,
+GSE245380,GSM7841611,Ribo-Seq KDM5 Knockdown IP 1,heads,heads,,,New,,,,
+GSE245380,GSM7841606,Ribo-Seq Ctl IP 2,heads,heads,,,New,,,,
+GSE245380,GSM7841614,Ribo-Seq KDM5 Knockdown Input 1,heads,heads,,,New,,,,
+GSE245380,GSM7841609,Ribo-Seq Ctl Input 2,heads,heads,,,New,,,,
+GSE245380,GSM7841615,Ribo-Seq KDM5 Knockdown Input 2,heads,heads,,,New,,,,
+GSE245380,GSM7841610,Ribo-Seq Ctl Input 3,heads,heads,,,New,,,,
+GSE245380,GSM7841616,Ribo-Seq KDM5 Knockdown Input 3,heads,heads,,,New,,,,
+GSE245380,GSM7841612,Ribo-Seq KDM5 Knockdown IP 2,heads,heads,,,New,,,,
+GSE245380,GSM7841613,Ribo-Seq KDM5 Knockdown IP 3,heads,heads,,,New,,,,
+GSE245380,GSM7841607,Ribo-Seq Ctl IP 3,heads,heads,,,New,,,,
+GSE210503,GSM6431488,"Wild-type Drosophila late-ovary sample, biological replicate 1 [Ribo-seq]",Ovary,Ovary,GSM6431491,"Wild-type Drosophila late-ovary sample, biological replicate 1 [RNA-seq]",New,,,,Illumina TruSeq
+GSE210503,GSM6431489,"Wild-type Drosophila late-ovary sample, biological replicate 2 [Ribo-seq]",Ovary,Ovary,GSM6431492,"Wild-type Drosophila late-ovary sample, biological replicate 2 [RNA-seq]",New,,,,Illumina TruSeq
+GSE210503,GSM6431490,"Wild-type Drosophila late-ovary sample, biological replicate 3 [Ribo-seq]",Ovary,Ovary,GSM6431493,"Wild-type Drosophila late-ovary sample, biological replicate 3 [RNA-seq]",New,,,,Illumina TruSeq
+GSE166408,GSM5070736,S2_UTD_deep_Ribo-seq,S2 cells,S2 cells,,,New,,Control/untreated; Thermo Fisher RNAse I (EN0601); low ionic lysis buffer,,NEBNext Multiplex Small RNA
+GSE166408,GSM5070733,S2_TD_Ribo-seq,S2 cells,S2 cells,,,New,,Cycloheximide (CHX); Thermo Fisher RNAse I (EN0601); low ionic lysis buffer,,NEBNext Multiplex Small RNA
+GSE166408,GSM5070734,S2_UTA_Ribo-seq,S2 cells,S2 cells,,,New,,Control/untreated; Ambion RNAse I (AM2295); high ionic lysis buffer,,NEBNext Multiplex Small RNA
+GSE166408,GSM5070732,S2_TA_Ribo-seq,S2 cells,S2 cells,,,New,,Cycloheximide (CHX); Ambion RNAse I (AM2295); high ionic lysis buffer,,NEBNext Multiplex Small RNA
+GSE166408,GSM5070735,S2_UTD_Ribo-seq,S2 cells,S2 cells,,,New,,Control/untreated; Thermo Fisher RNAse I (EN0601); low ionic lysis buffer,,NEBNext Multiplex Small RNA
+GSE153346,GSM4641428,25_RPF_RAPA,S2,late stage embryo-derived S2 cells,,,New,,Rapamycin,,Illumina TruSeq
+GSE153346,GSM4641422,8_RPF_RAPA,S2,late stage embryo-derived S2 cells,,,New,,Rapamycin,,Illumina TruSeq
+GSE153346,GSM4641427,24_RPF_DMSO,S2,late stage embryo-derived S2 cells,,,New,,DMSO (vehicle control),,Illumina TruSeq
+GSE153346,GSM4641419,5_RPF_RAPA,S2,late stage embryo-derived S2 cells,,,New,,Rapamycin,,Illumina TruSeq
+GSE153346,GSM4641421,7_RPF_DMSO,S2,late stage embryo-derived S2 cells,,,New,,DMSO (vehicle control),,Illumina TruSeq
+GSE153346,GSM4641418,4_RPF_DMSO,S2,late stage embryo-derived S2 cells,,,New,,DMSO (vehicle control),,Illumina TruSeq
+GSE153346,GSM4641420,6_RPF_Torin,S2,late stage embryo-derived S2 cells,,,New,,Torin,,Illumina TruSeq
+GSE153346,GSM4641429,26_RPF_Torin,S2,late stage embryo-derived S2 cells,,,New,,Torin,,Illumina TruSeq
+GSE153346,GSM4641423,9_RPF_Torin,S2,late stage embryo-derived S2 cells,,,New,,Torin,,Illumina TruSeq
+GSE106697,GSM2845557,Ribo-seq of S2 cells treated with rapamycin,S2 cell,S2 cell,GSM2845555,mRNA-seq of S2 cells treated with rapamycin,New,,Rapamycin,,
+GSE106697,GSM2845560,Ribo-seq of S2 cells transfected with ssNC,S2 cell,S2 cell,GSM2845558,mRNA-seq of S2 cells  transfected with ssNC,New,,ssNC transfection,,
+GSE106697,GSM2845572,Ribo-seq of S2 cells transfected with tsRNA mimic T10,S2 cell,S2 cell,GSM2845570,mRNA-seq of S2 cells transfected with tsRNA mimic T10,New,,T10 mimic transfection,,
+GSE106697,GSM2845549,Ribo-seq of S2 cells under ago2 knock-down and starvation condition,S2 cell,S2 cell,GSM2845547,mRNA-seq of S2 cells under ago2 knock-down and starvation condition,New,,ago2 knockdown and starvation,,
+GSE106697,GSM2845527,Ribo-seq of S2 cells under normal condition,S2 cell,S2 cell,GSM2845525,mRNA-seq of S2 cells under normal condition,New,,normal,,
+GSE106697,GSM2845564,Ribo-seq of S2 cells transfected with tsRNA mimic T3,S2 cell,S2 cell,GSM2845562,mRNA-seq of S2 cells transfected with tsRNA mimic T3,New,,T3 mimic transfection,,
+GSE106697,GSM2845553,Ribo-seq of S2 cells treated with DMSO,S2 cell,S2 cell,GSM2845551,mRNA-seq of S2 cells treated with DMSO,New,,DMSO (vehicle control),,
+GSE106697,GSM2845533,Ribo-seq of S2 cells under starvation condition,S2 cell,S2 cell,GSM2845531,mRNA-seq of S2 cells under starvation condition,New,,starvation,,
+GSE106697,GSM2845542,Ribo-seq of S2 cells transfected with dsNC,S2 cell,S2 cell,GSM2845541,mRNA-seq of S2 cells transfected with dsNC,New,,dsNC transfection,,
+GSE106697,GSM2845568,Ribo-seq of S2 cells transfected with tsRNA mimic T6,S2 cell,S2 cell,GSM2845566,mRNA-seq of S2 cells transfected with tsRNA mimic T6,New,,T6 mimic transfection,,
+GSE106697,GSM2845545,Ribo-seq of S2 cells under ago2 knock-down condition,S2 cell,S2 cell,GSM2845543,mRNA-seq of S2 cells under ago2 knock-down condition,New,,ago2 knockdown,,
+GSE99920,GSM2664271,Tor-OE ribosome profiling replicate 1,body wall muscle,Tor-OE ribosome profiling,,,New,,,,NEBNext Small RNA
+GSE99920,GSM2664257,wild type ribosome profiling replicate 2,body wall muscle,wild type ribosome profiling,,,New,,,,NEBNext Small RNA
+GSE99920,GSM2664266,GluRIIA ribosome profiling replicate 2,body wall muscle,GluRIIA ribosome profiling,,,New,,,,NEBNext Small RNA
+GSE99920,GSM2664272,Tor-OE ribosome profiling replicate 2,body wall muscle,Tor-OE ribosome profiling,,,New,,,,NEBNext Small RNA
+GSE99920,GSM2664258,wild type ribosome profiling replicate 3,body wall muscle,wild type ribosome profiling,,,New,,,,NEBNext Small RNA
+GSE99920,GSM2664267,GluRIIA ribosome profiling replicate 3,body wall muscle,GluRIIA ribosome profiling,,,New,,,,NEBNext Small RNA
+GSE99920,GSM2664256,wild type ribosome profiling replicate 1,body wall muscle,wild type ribosome profiling,,,New,,,,NEBNext Small RNA
+GSE99920,GSM2664273,Tor-OE ribosome profiling replicate 3,body wall muscle,Tor-OE ribosome profiling,,,New,,,,NEBNext Small RNA
+GSE99920,GSM2664265,GluRIIA ribosome profiling replicate 1,body wall muscle,GluRIIA ribosome profiling,,,New,,,,NEBNext Small RNA
+GSE52799,GSM1276399,activated_egg_CHX_RPF,activated eggs,activated eggs,,,New,,,,
+GSE52799,GSM1276400,png_egg_CHX_RPF,activated eggs,activated eggs,,,New,,,,
+GSE52799,GSM1276397,png_egg_noCHX_RPF,activated eggs,activated eggs,,,New,,,,
+GSE52799,GSM1276398,mature_oocyte_CHX_RPF,ovary,mature oocytes,,,New,,,,
+GSE52799,GSM1276395,mature_oocyte_noCHX_RPF,ovary,mature oocytes,,,New,,,,
+GSE52799,GSM1276396,activated_egg_noCHX_RPF,activated eggs,activated eggs,,,New,,,,
+GSE49197,GSM1195323,footprint 0-2 hour embryo cushion replicate B,whole 0-2 hour embryo,whole 0-2 hour Drosophila embryo,,,New,,,,
+GSE49197,GSM1195326,footprint S2 cell 150 replicate A,S2,S2 cell,,,New,,,,
+GSE49197,GSM1195318,footprint 0-2 hour embryo replicate A,whole 0-2 hour embryo,whole 0-2 hour Drosophila embryo,GSM1195320,mRNA 0-2 hour embryo replicate A,New,,,,
+GSE49197,GSM1195329,footprint S2 cell 250 replicate B,S2,S2 cell,,,New,,,,
+GSE49197,GSM1195327,footprint S2 cell 150 replicate B,S2,S2 cell,,,New,,,,
+GSE49197,GSM1195324,footprint 0-2 hour embryo gradient replicate A,whole 0-2 hour embryo,whole 0-2 hour Drosophila embryo,,,New,,,,
+GSE49197,GSM1195328,footprint S2 cell 250 replicate A,S2,S2 cell,,,New,,,,
+GSE49197,GSM1195322,footprint 0-2 hour embryo cushion replicate A,whole 0-2 hour embryo,whole 0-2 hour Drosophila embryo,,,New,,,,
+GSE49197,GSM1195319,footprint 0-2 hour embryo replicate B,whole 0-2 hour embryo,whole 0-2 hour Drosophila embryo,GSM1195321,mRNA 0-2 hour embryo replicate B,New,,,,
+GSE49197,GSM1195325,footprint 0-2 hour embryo gradient replicate B,whole 0-2 hour embryo,whole 0-2 hour Drosophila embryo,,,New,,,,

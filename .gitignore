@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+*.egg-info/
+.venv/
+logs/*.out
+logs/*.err
+*.fastq.gz
+*.partial
+*.part
